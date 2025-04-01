@@ -1,2 +1,4 @@
 # gitdetector
-search git exposed with bash
+Search git exposed with bash
+
+usage: script.sh list of url
